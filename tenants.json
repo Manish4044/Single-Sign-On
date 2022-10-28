@@ -1,0 +1,34 @@
+[
+    {
+        "tenantName":"9532643074bgmail",
+        "tenantId":"08393a0e-7b86-4136-b9c8-ad5f23fc6267",
+        "app":[
+            {
+                "name":"Multi_SSO",
+                "identityTenantId":"MultiSSO-wwlpj",
+                "clientId":"680fcf21-6259-445a-806a-3ec01fdd388d"
+            },
+            {
+                "name":"SSO_Firebase",
+                "identityTenantId":"SSOMicrosoftFirebase-wwsw1",
+                "clientId":"d0cb2378-7b38-4696-bf66-e155d4b0beaf"
+            },
+            {
+                "name":"New_AD",
+                "identityTenantId":"NewAD-rkzyi",
+                "clientId":"bb591dfa-630d-43bd-8022-b8e9361bce03"
+            }
+        ]
+    },
+    {
+        "tenantName":"sazutech",
+        "tenantId":"33eebfa4-c812-474b-aeda-810aa9559ec8",
+        "app":[
+            {
+                "name":"Multi_SSO_Sazutech",
+                "identityTenantId":"MultiSSOSazuTech-auqgm",
+                "clientId":"41d4fd28-84a4-4877-b3e6-aa70e43e62da"
+            }
+        ]
+    }
+]

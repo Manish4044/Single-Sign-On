@@ -1,0 +1,26 @@
+[   
+    {
+        "azureProjectName":"New_AD",
+        "identityTenantId":"NewAD-rkzyi",
+        "tenantId":"08393a0e-7b86-4136-b9c8-ad5f23fc6267",
+        "clientId":"bb591dfa-630d-43bd-8022-b8e9361bce03",
+        "tenantName":"9532643074bgmail",
+        "domain":"http://localhost:5001"
+    },
+    {
+        "azureProjectName":"SSO_Firebase",
+        "identityTenantId":"SSOMicrosoftFirebase-wwsw1",
+        "tenantId":"08393a0e-7b86-4136-b9c8-ad5f23fc6267",
+        "clientId":"d0cb2378-7b38-4696-bf66-e155d4b0beaf",
+        "tenantName":"9532643074bgmail",
+        "domain":"http://localhost:5002"
+    },
+    {
+        "azureProjectName":"Multi_SSO",
+        "identityTenantId":"MultiSSO-wwlpj",
+        "tenantId":"08393a0e-7b86-4136-b9c8-ad5f23fc6267",
+        "clientId":"680fcf21-6259-445a-806a-3ec01fdd388d",
+        "tenantName":"9532643074bgmail",
+        "domain":"http://localhost:5003"
+    }
+]
